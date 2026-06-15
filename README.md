@@ -26,8 +26,8 @@ Python, TensorFlow/Keras, MediaPipe Holistic, OpenCV, NumPy, scikit-learn
 
 ## Documentation
 
-- 📄 [Research Paper (PDF)](docs/Research_Paper.pdf)
-- 📊 [Project Presentation (PPTX)](docs/Project_Presentation.pptx)
+- 📄 [Report ](docs/Research_Paper.pdf)
+- 📊 [Project Presentation](docs/Project_Presentation.pptx)
 
 > Place the report and presentation files inside a `docs/` folder at the root of this repo so the links above resolve correctly. Visitors can click either link to view or download the file directly from GitHub.
 
